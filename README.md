@@ -16,9 +16,15 @@ The URL analysis module uses AI and a suite of reconnaissance tools (WHOIS, DIG,
 # Key Features
 
 ⭐️Dual Analysis Modes: URL phishing detection and AI-generated text verification.
+
 ⭐️AI-Driven Threat Intelligence: Advanced AI evaluation of URLs and text.
+
 ⭐️Comprehensive URL Reconnaissance: Integrates WHOIS, DIG, cURL, WhatWeb, SSLScan, Nmap.
+
 ⭐️AI Text Authorship Detection: Identifies AI-generated phishing notes and content.
+
 ⭐️Actionable Reports: Risk scores, threat/authorship indicators, and recommendations.
+
 ⭐️User-Friendly Web Interface: Modern design for clear, accessible results.
+
 ⭐️Addresses Modern Threats: Tailored to combat AI-assisted phishing and disinformation.
